@@ -1,6 +1,6 @@
 # Autostat
 
-An implementation of the Automatic Bayesian Covariance Discovery algorithm (part of the "Automatic Statistician" research program), with a handful of adjustments made to focus on
+An implementation of the Automatic Bayesian Covariance Discovery algorithm (part of the "Automatic Statistician" research program), with a handful of adjustments made to focus on forecasting.
 
 # How to use
 
